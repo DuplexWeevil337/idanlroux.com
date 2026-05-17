@@ -1,4 +1,9 @@
 body{
     color: coral;
     background-color: lightgreen;
+    font-family: 'Calibri', sans-serif;
+    .div1{
+        background-color: midnightblue;
+        color: coral;
+    }
 }
